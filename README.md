@@ -11,6 +11,17 @@
 😄 Pronouns: He/him
 
 ⚡ Fun fact: I have a knack for languages and can say "hello" in over 10 different languages!
+
+💻Tech Stack
+Python NodeJS Express.js NestJS
+
+React NextJS
+
+Python JavaScript TypeScript HTML5 CSS3 Bootstrap SASS TailwindCSS
+
+MySQL Postgres MongoDB Redis
+
+Git Docker AWS Socket.io Apache Nginx
 <!---
 kritarth17/kritarth17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
